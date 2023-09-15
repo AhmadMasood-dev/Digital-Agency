@@ -150,3 +150,23 @@ margin: 100px 0;
 .user-details{
   display: inline-block;
 }
+/* **********************  */
+/*  SOICAL MEDIA  Section  */
+/* **********************  */
+#Soical-Media{
+  background: #f8f9fa;
+  padding: 100px 0;
+}
+#Soical-Media p{
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.soical-icons img{
+  width: 60px;
+  
+  transition: ease-out 0.7s;
+}
+.soical-icons a:hover img{
+  transform: translateY(-10px);
+}
