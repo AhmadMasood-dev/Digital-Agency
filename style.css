@@ -110,64 +110,64 @@ body {
   border-radius: 20px !important;
   background-image: linear-gradient(to right, #a517ba, #5f1782);
 }
- 
+
 /* ***************** */
 /* About Us Section  */
 /* ***************** */
-#about-us{
+#about-us {
   background: #f8f9fa;
   padding: 50px 0;
 }
-.about-title{
+.about-title {
   font-size: 40px;
   font-weight: 600;
   margin-top: 8%;
 }
-#about-us ul li{
+#about-us ul li {
   margin: 10px 0;
 }
-#about-us ul{
-  margin-left:20px ;
+#about-us ul {
+  margin-left: 20px;
 }
- 
+
 /* **********************  */
 /*  Testimonials  Section  */
 /* **********************  */
-#testimonials{
-margin: 100px 0;
+#testimonials {
+  margin: 100px 0;
 }
-.testimonials{
+.testimonials {
   border-left: 4px solid #7b1798;
   margin-top: 50px;
   margin-bottom: 50px;
 }
-.testimonials img{
+.testimonials img {
   width: 70px;
   height: 70px;
   border-radius: 50%;
   margin: 0 10px;
 }
-.user-details{
+.user-details {
   display: inline-block;
 }
 /* **********************  */
 /*  SOICAL MEDIA  Section  */
 /* **********************  */
-#Soical-Media{
+#Soical-Media {
   background: #f8f9fa;
   padding: 100px 0;
 }
-#Soical-Media p{
+#Soical-Media p {
   font-size: 36px;
   font-weight: 600;
   margin-bottom: 30px;
 }
-.soical-icons img{
+.soical-icons img {
   width: 60px;
-  
+
   transition: ease-out 0.7s;
 }
-.soical-icons a:hover img{
+.soical-icons a:hover img {
   transform: translateY(-10px);
 }
 
@@ -175,18 +175,18 @@ margin: 100px 0;
 /* Footer Section  */
 /* **************  */
 
-#footer{
+#footer {
   background-image: linear-gradient(to right, #a517ba, #5f1782);
   color: #fff;
 }
-.footer-img{
+.footer-img {
   width: 100%;
 }
-.footer-box{
+.footer-box {
   width: 120px;
   margin-bottom: 20px;
 }
-i{
+i {
   margin-right: 10px;
   font-size: 25px;
   height: 40px;
@@ -195,4 +195,28 @@ i{
   padding-top: 7px;
   border-radius: 2px;
   background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+.footer-box .form-control{
+  border: none !important;
+
+ border-radius: 0;
+ margin-top: 25px;
+ max-width: 250px;
+  box-shadow: none; 
+}
+.footer-box .btn-primary{
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  margin-top: 30px;  
+ 
+}
+hr{
+ background-color: #fff;
+}
+.Third{
+  padding-top: 10px;
+  color: rgb(176, 173, 173);
+  font-size: 0.9rem;
+  padding-bottom: 20px;
+  text-align: center;
 }
