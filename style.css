@@ -196,24 +196,23 @@ i {
   border-radius: 2px;
   background-image: linear-gradient(to right, #a517ba, #5f1782);
 }
-.footer-box .form-control{
+.footer-box .form-control {
   border: none !important;
 
- border-radius: 0;
- margin-top: 25px;
- max-width: 250px;
-  box-shadow: none; 
+  border-radius: 0;
+  margin-top: 25px;
+  max-width: 250px;
+  box-shadow: none;
 }
-.footer-box .btn-primary{
+.footer-box .btn-primary {
   box-shadow: none !important;
   border-radius: 0 !important;
-  margin-top: 30px;  
- 
+  margin-top: 30px;
 }
-hr{
- background-color: #fff;
+hr {
+  background-color: #fff;
 }
-.Third{
+.Third {
   padding-top: 10px;
   color: rgb(176, 173, 173);
   font-size: 0.9rem;
